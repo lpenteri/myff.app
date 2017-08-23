@@ -1,0 +1,24 @@
+language: js
+version: 0.1.0
+
+platform:
+  - target: ubuntu
+    version: 14.04
+    arch: i686
+
+install:
+  -  npm install
+
+api: 0.7.5
+
+package:
+  - conf/userconf.json
+  - helpers/eventclient.js
+  - helpers/queryfeedclient.js
+  - helpers/user-settings.js
+  - bin/www 
+  - grunt.js
+  - locales/en-GB/messages.pot
+  - locales/it-IT/messages.pot 
+  - myffapp.js
+  - package.json

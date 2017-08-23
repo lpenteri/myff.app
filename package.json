@@ -1,0 +1,32 @@
+{
+  "name": "myff.app",
+  "version": "0.1.0",
+  "description": "Friends and family app for the Mario project Kompai Robot",
+  "main": "myff.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "News",
+    "app",
+    "dementia",
+    "elderly",
+    "MARIO",
+    "Kompai",
+    "Robotic",
+    "app",
+    "elderly"
+  ],
+  "author": "Christos Kouroupetroglou",
+  "license": "ISC",
+  "dependencies": {
+    "app-root-path": "^1.2.1",
+    "feed-read": "0.0.1",
+    "finalhandler": "^0.5.1",
+    "html-entities": "^1.2.0",
+    "mongodb": "^2.2.9",
+    "node-gettext": "^1.1.0",
+    "serve-static": "^1.11.1",
+    "striptags": "^2.1.1"
+  }
+}

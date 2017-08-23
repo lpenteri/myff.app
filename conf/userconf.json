@@ -1,0 +1,42 @@
+{
+    "marvin_ip": "localhost",
+    "marvin_port": 8080,
+    "mongodb": "mongodb://localhost:27017/myff_app",
+    "port": 3099,
+    "users":[{
+    "name":"Angelos",
+    "profiles": [{
+        "handle": "ChrKourou",
+        "img": "/_img/mario/news-icon.png",
+        "name": "Son"
+    }, {
+        "handle": "Mario_Kompai",
+        "img": "/_img/mario/news-icon.png",
+        "name": "Daughter"
+    }],
+    "hashtag": "ict4water"
+    },{
+    "name":"Luigi",
+    "profiles": [{
+        "handle": "ChrKourou",
+        "img": "/_img/mario/news-icon.png",
+        "name": "Luigi's Son"
+    }, {
+        "handle": "Mario_Kompai",
+        "img": "/_img/mario/news-icon.png",
+        "name": "Your Daughter"
+    }],
+    "hashtag": "MarioSays"
+    }],
+    "defaultprofiles": [{
+        "handle": "ChrKourou",
+        "img": "/_img/mario/news-icon.png",
+        "name": "Son"
+    }, {
+        "handle": "Mario_Kompai",
+        "img": "/_img/mario/news-icon.png",
+        "name": "Daughter"
+    }],
+    "hashtag": "ict4water",
+    "update_frequency":30
+}

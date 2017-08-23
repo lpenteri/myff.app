@@ -1,0 +1,50 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: News app\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2016-09-05 14:27+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: \n"
+"Language-Team: Italian\n"
+"Language: Italian\n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Loco-Source-Locale: it-IT\n"
+"X-Generator: Loco - https://localise.biz/\n"
+"X-Loco-Parser: loco_parse_po"
+
+msgid "latest"
+msgstr "ultime"
+
+msgid "news"
+msgstr "notizie"
+
+msgid "What would you like to do?"
+msgstr "Cosa vorresti fare?"
+
+msgid "Select a topic of news?"
+msgstr "Selezionare un argomento? "
+
+msgid "Read all headlines?"
+msgstr "Leggere tutti i titoli? "
+
+msgid "select"
+msgstr "Seleziona"
+
+msgid "topic"
+msgstr "Argomento"
+
+msgid "all"
+msgstr "tutti"
+
+msgid "headlines"
+msgstr "titoli"
+
+msgid "Which topic would you like to read about?"
+msgstr "Che argomento vorresti sentire? "
+
+msgid "News headlines"
+msgstr "Ultime notizie."
